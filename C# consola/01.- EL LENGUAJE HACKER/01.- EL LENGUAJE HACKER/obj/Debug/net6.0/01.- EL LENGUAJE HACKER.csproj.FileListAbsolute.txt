@@ -1,0 +1,15 @@
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\bin\Debug\net6.0\01.- EL LENGUAJE HACKER.exe
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\bin\Debug\net6.0\01.- EL LENGUAJE HACKER.deps.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\bin\Debug\net6.0\01.- EL LENGUAJE HACKER.runtimeconfig.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\bin\Debug\net6.0\01.- EL LENGUAJE HACKER.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\bin\Debug\net6.0\01.- EL LENGUAJE HACKER.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\01.- EL LENGUAJE HACKER.csproj.AssemblyReference.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\01.- EL LENGUAJE HACKER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\01.- EL LENGUAJE HACKER.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\01.- EL LENGUAJE HACKER.AssemblyInfo.cs
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\01.- EL LENGUAJE HACKER.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\01.- EL LENGUAJE HACKER.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\refint\01.- EL LENGUAJE HACKER.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\01.- EL LENGUAJE HACKER.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\01.- EL LENGUAJE HACKER.genruntimeconfig.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\01.- EL LENGUAJE HACKER\01.- EL LENGUAJE HACKER\obj\Debug\net6.0\ref\01.- EL LENGUAJE HACKER.dll
