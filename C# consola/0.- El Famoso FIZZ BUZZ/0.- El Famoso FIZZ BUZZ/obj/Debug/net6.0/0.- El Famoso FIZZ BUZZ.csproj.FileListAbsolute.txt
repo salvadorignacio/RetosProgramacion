@@ -1,0 +1,15 @@
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\bin\Debug\net6.0\0.- El Famoso FIZZ BUZZ.exe
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\bin\Debug\net6.0\0.- El Famoso FIZZ BUZZ.deps.json
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\bin\Debug\net6.0\0.- El Famoso FIZZ BUZZ.runtimeconfig.json
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\bin\Debug\net6.0\0.- El Famoso FIZZ BUZZ.dll
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\bin\Debug\net6.0\0.- El Famoso FIZZ BUZZ.pdb
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\0.- El Famoso FIZZ BUZZ.csproj.AssemblyReference.cache
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\0.- El Famoso FIZZ BUZZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\0.- El Famoso FIZZ BUZZ.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\0.- El Famoso FIZZ BUZZ.AssemblyInfo.cs
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\0.- El Famoso FIZZ BUZZ.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\0.- El Famoso FIZZ BUZZ.dll
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\refint\0.- El Famoso FIZZ BUZZ.dll
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\0.- El Famoso FIZZ BUZZ.pdb
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\0.- El Famoso FIZZ BUZZ.genruntimeconfig.cache
+C:\Users\salva\Desktop\Retos de programación C# consola\0.- El Famoso FIZZ BUZZ\0.- El Famoso FIZZ BUZZ\obj\Debug\net6.0\ref\0.- El Famoso FIZZ BUZZ.dll
