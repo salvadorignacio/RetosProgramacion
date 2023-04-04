@@ -1,0 +1,15 @@
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\bin\Debug\net6.0\02.- EL PARTIDO DE TENIS.exe
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\bin\Debug\net6.0\02.- EL PARTIDO DE TENIS.deps.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\bin\Debug\net6.0\02.- EL PARTIDO DE TENIS.runtimeconfig.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\bin\Debug\net6.0\02.- EL PARTIDO DE TENIS.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\bin\Debug\net6.0\02.- EL PARTIDO DE TENIS.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\02.- EL PARTIDO DE TENIS.csproj.AssemblyReference.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\02.- EL PARTIDO DE TENIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\02.- EL PARTIDO DE TENIS.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\02.- EL PARTIDO DE TENIS.AssemblyInfo.cs
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\02.- EL PARTIDO DE TENIS.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\02.- EL PARTIDO DE TENIS.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\refint\02.- EL PARTIDO DE TENIS.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\02.- EL PARTIDO DE TENIS.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\02.- EL PARTIDO DE TENIS.genruntimeconfig.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\02.- EL PARTIDO DE TENIS\02.- EL PARTIDO DE TENIS\obj\Debug\net6.0\ref\02.- EL PARTIDO DE TENIS.dll
