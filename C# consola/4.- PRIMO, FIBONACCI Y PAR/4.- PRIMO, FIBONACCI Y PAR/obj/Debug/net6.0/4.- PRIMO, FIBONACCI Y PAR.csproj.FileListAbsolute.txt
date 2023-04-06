@@ -1,0 +1,15 @@
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.csproj.AssemblyReference.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.AssemblyInfo.cs
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\bin\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.exe
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\bin\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.deps.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\bin\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.runtimeconfig.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\bin\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\bin\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\refint\4.- PRIMO, FIBONACCI Y PAR.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\4.- PRIMO, FIBONACCI Y PAR.genruntimeconfig.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\4.- PRIMO, FIBONACCI Y PAR\4.- PRIMO, FIBONACCI Y PAR\obj\Debug\net6.0\ref\4.- PRIMO, FIBONACCI Y PAR.dll
