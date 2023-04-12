@@ -1,0 +1,15 @@
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\bin\Debug\net6.0\1.- Comprobar caracteres unicos.exe
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\bin\Debug\net6.0\1.- Comprobar caracteres unicos.deps.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\bin\Debug\net6.0\1.- Comprobar caracteres unicos.runtimeconfig.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\bin\Debug\net6.0\1.- Comprobar caracteres unicos.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\bin\Debug\net6.0\1.- Comprobar caracteres unicos.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\1.- Comprobar caracteres unicos.csproj.AssemblyReference.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\1.- Comprobar caracteres unicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\1.- Comprobar caracteres unicos.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\1.- Comprobar caracteres unicos.AssemblyInfo.cs
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\1.- Comprobar caracteres unicos.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\1.- Comprobar caracteres unicos.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\refint\1.- Comprobar caracteres unicos.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\1.- Comprobar caracteres unicos.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\1.- Comprobar caracteres unicos.genruntimeconfig.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\1.- Comprobar caracteres unicos\1.- Comprobar caracteres unicos\obj\Debug\net6.0\ref\1.- Comprobar caracteres unicos.dll
