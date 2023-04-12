@@ -7,13 +7,14 @@
 
 
 bool esUnico(string texto) {
-    int numeroCaracteres = 128; //ASCII
-    string seudoHashMap = "";
-    texto = texto.ToLower();
-    char[] arr = texto.ToCharArray(); // Se convierte el texto en un array
+    int numeroCaracteres    = 128; //ASCII
+    string seudoHashMap     = "";
+    texto                   = texto.ToLower();
+    char[] arr              = texto.ToCharArray(); // Se convierte el texto en un array
+
     if (texto.Length > numeroCaracteres)
     {
-        return false;
+        return false; // No es posible que hayan más de 128 caracteres y ninguno se repita, dado que los caracteres son limitados
     }
 
     for (int i = 0; i < arr.Length; i++)

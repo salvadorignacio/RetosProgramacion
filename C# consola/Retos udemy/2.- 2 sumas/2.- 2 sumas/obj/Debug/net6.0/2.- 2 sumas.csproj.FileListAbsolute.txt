@@ -1,0 +1,15 @@
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\bin\Debug\net6.0\2.- 2 sumas.exe
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\bin\Debug\net6.0\2.- 2 sumas.deps.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\bin\Debug\net6.0\2.- 2 sumas.runtimeconfig.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\bin\Debug\net6.0\2.- 2 sumas.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\bin\Debug\net6.0\2.- 2 sumas.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\2.- 2 sumas.csproj.AssemblyReference.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\2.- 2 sumas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\2.- 2 sumas.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\2.- 2 sumas.AssemblyInfo.cs
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\2.- 2 sumas.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\2.- 2 sumas.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\refint\2.- 2 sumas.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\2.- 2 sumas.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\2.- 2 sumas.genruntimeconfig.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\2.- 2 sumas\2.- 2 sumas\obj\Debug\net6.0\ref\2.- 2 sumas.dll
