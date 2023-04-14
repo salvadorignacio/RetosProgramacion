@@ -1,0 +1,15 @@
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\bin\Debug\net6.0\6.- Anagrama.exe
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\bin\Debug\net6.0\6.- Anagrama.deps.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\bin\Debug\net6.0\6.- Anagrama.runtimeconfig.json
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\bin\Debug\net6.0\6.- Anagrama.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\bin\Debug\net6.0\6.- Anagrama.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\6.- Anagrama.csproj.AssemblyReference.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\6.- Anagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\6.- Anagrama.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\6.- Anagrama.AssemblyInfo.cs
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\6.- Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\6.- Anagrama.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\refint\6.- Anagrama.dll
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\6.- Anagrama.pdb
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\6.- Anagrama.genruntimeconfig.cache
+C:\Users\salva\Desktop\Retos Programacion\C# consola\Retos udemy\6.- Anagrama\6.- Anagrama\obj\Debug\net6.0\ref\6.- Anagrama.dll
